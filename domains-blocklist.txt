@@ -81478,9 +81478,9 @@ prod.adjoe.zone
 
 ########## Blocklist from https://schakal.ru/hosts/alive_hosts.txt ##########
 
-# Ignored duplicates: 159557
+# Ignored duplicates: 159561
 # Ignored due to overlapping local patterns: 3372
-# Ignored entries due to the allowlist: 338
+# Ignored entries due to the allowlist: 339
 
 marketing.globalpointofcare.abbott
 smetrics.abbott
@@ -89196,9 +89196,6 @@ adex.com
 adexchangeclear.com
 adexone.com
 adextrem.com
-api.adfenix.com
-assets.adfenix.com
-cdn.adfenix.com
 adfinitys.com
 adfinix.com
 adflow.com
@@ -96042,7 +96039,6 @@ candygainpeace.com
 candyjelly.com
 candyoffers.com
 canekilttantrum.com
-yu.canelorets.com
 canesfederalnewspapers.com
 canfirst-ai.com
 canfirst-crypto-ai.com
@@ -161658,7 +161654,6 @@ harrow.gravelwhisk.ru
 ridge.gravelwhisk.ru
 silt.gravelwhisk.ru
 spur.gravelwhisk.ru
-greatgamer.ru
 greatgrace.ru
 gru0z6.ru
 statistics.gs-labs.ru
@@ -175866,7 +175861,7 @@ hk1.uc.zone
 
 ########## Blocklist from https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt ##########
 
-# Ignored duplicates: 28903
+# Ignored duplicates: 28904
 # Ignored due to overlapping local patterns: 90
 # Ignored entries due to the allowlist: 5
 
@@ -175965,6 +175960,7 @@ xoilactvcj.cc
 1l2q1noweyzgke1nbv.cfd
 1nr8eb9bkxt24ub4mwtcullg2wu.cfd
 227hh1exp73vujmvyil9kzv8mnhu.cfd
+234u4xkvieri7r.cfd
 25itoozlzby1o83b88695m5.cfd
 275rozmk1uibwi.cfd
 2bx4ue1u7696hv94liv.cfd
@@ -175999,6 +175995,8 @@ xoilactvcj.cc
 5uzevbgn3ufcgg14v8ze89no7r9.cfd
 5yw6hre7vei3qzgvglinhwf526ev959ky6.cfd
 64mtfgp6hc83zmf34nnexl5z46n.cfd
+683pzx3jefn1pyt75.cfd
+69t3pc1r5qckz945wil.cfd
 6chmrmjugoeq1bk.cfd
 6h23gvxwkkwix22xrtoi9zy.cfd
 6lkfy9ng3hcp4jl.cfd
@@ -176050,6 +176048,7 @@ alexinceroon.cfd
 algarotwitless.cfd
 algidforkers.cfd
 aliformfikery.cfd
+alitersaltary.cfd
 alloyedave.cfd
 alluresbored.cfd
 allworkqasidas.cfd
@@ -176173,6 +176172,7 @@ cotisehotspur.cfd
 cpnlqt7chij3no85ujmttpvlgjjecc.cfd
 cqjt6ri4gjci796tg69gumrx267j.cfd
 craftlyonerate.cfd
+craggedtutress.cfd
 craniomensile.cfd
 cratedpillion.cfd
 cratesketole.cfd
@@ -176238,6 +176238,7 @@ ethylspidan.cfd
 eudaruffles.cfd
 eunicebarbero.cfd
 everniasci.cfd
+evincedendears.cfd
 ewnc611xxgn188vekffvbne.cfd
 expreme.cfd
 extentsunfumed.cfd
@@ -176562,6 +176563,7 @@ outsertozonic.cfd
 ovulitegaen.cfd
 owesyirrs.cfd
 owh52hhkc4t4b9.cfd
+oyezpapayaortyx.cfd
 ozonizesizer.cfd
 ozycode.cfd
 p269vhygzowkotz4.cfd
@@ -176692,6 +176694,7 @@ sciathsurma.cfd
 sciaticgallootarouse.cfd
 sclateviduage.cfd
 scopinemina.cfd
+scowweasons.cfd
 scullerbiker.cfd
 sculperatriums.cfd
 sculshfrothy.cfd
@@ -176731,6 +176734,7 @@ suaverplenish.cfd
 subcashgirly.cfd
 subericfibsfusing.cfd
 subgumsabe.cfd
+submenoannes.cfd
 subparsephiraconches.cfd
 succahsflotsam.cfd
 succubicocopan.cfd
@@ -176756,6 +176760,7 @@ tastierlawny.cfd
 taxinenaives.cfd
 teacherspivvy.cfd
 tenrecgange.cfd
+tercetsflauchtsavile.cfd
 theftpoulpeserut.cfd
 thereare.cfd
 thumbsfibrinsshaver.cfd
@@ -176787,6 +176792,7 @@ twillermobiles.cfd
 typalbummie.cfd
 u8wiw86hfn3f476fyi3n87pxbpryo627uc5hjk.cfd
 ujf25ozv656t67v4.cfd
+ujolpuykv6w3b6kroyvvrjq5jb.cfd
 um7emj5gq57nqwm6qk4q6vv3h8x.cfd
 umpiredmosettebibulus.cfd
 unbatedlambkinreverse.cfd
@@ -176881,6 +176887,7 @@ yawytfr.cfd
 ycbcnzf99glu9bfc3ojw57hhclm.cfd
 yiv4fpzy3r1nwwl.cfd
 yohocrummer.cfd
+youngstripsisnuba.cfd
 yp9f2w7v92j421ojvc.cfd
 ypxvhl1i1kqm2g38wc.cfd
 z3lvljfrlyx6jrzw67tqgw49g4el5.cfd
@@ -176966,6 +176973,7 @@ dichordravin.click
 digamyaggress.click
 dipnoidserpens.click
 disnestjotting.click
+donzelsdkl.click
 douploadfiles.click
 drumskilxoa.click
 dtx.click
@@ -177034,6 +177042,7 @@ linumecize.click
 mamaunweft.click
 mamimp.click
 maungychiders.click
+mawplollard.click
 meldhayrake.click
 melilotsteem.click
 menfolknihal.click
@@ -177109,6 +177118,7 @@ rittertingle.click
 romanlyampery.click
 rootyelektra.click
 runblooth.click
+scunpolymny.click
 scurrypaleron.click
 shieldsherders.click
 shikobaton.click
@@ -177123,6 +177133,7 @@ splungedhobie.click
 stellhalesia.click
 stiffenzebroid.click
 stognanes.click
+strootcooches.click
 sublidphoca.click
 sunstaytorous.click
 swarbiecawky.click
@@ -177153,6 +177164,7 @@ valouwezabian.click
 vetatoilets.click
 vetiveraccable.click
 vibgyorxylose.click
+vierdrengh.click
 vnte9urn.click
 volutewhid.click
 warslesdaalder.click
@@ -178214,10 +178226,12 @@ beakexcursion.com
 bealafulup.com
 beamobserver.com
 beastssmuggleimpatiently.com
+beesteeceew.com
 beginningstock.com
 behalfplead.com
 beingajoytow.com
 belatedguidance.com
+bellonmozarab.com
 bemachopor.com
 bend-me-over.com
 benefitssheasha.com
@@ -178454,6 +178468,7 @@ camonster.com
 camptrck.com
 camsoda1.com
 candid-internet.com
+canelorets.com
 canstrm.com
 capndr.com
 captiveimpossibleimport.com
@@ -178516,6 +178531,7 @@ cedeimprovise.com
 cee332cc1f.com
 ceethipt.com
 ceilingcrashpardon.com
+cejawesx.com
 celeryisolatedproject.com
 celxkpdir.com
 censusmarrydespair.com
@@ -178649,6 +178665,7 @@ conestreshow.com
 conforminteractbuzz.com
 confrontationquizmastertrifle.com
 confusedindustry.com
+conjunctionblackmailspill.com
 connectingresort.com
 conoret.com
 conqueredallrightswell.com
@@ -178918,6 +178935,7 @@ dlfeamtnrugwk.com
 dljttletlgsj.com
 dlrectdates.com
 dlwuuenfh.com
+dmakmaah.com
 dmbrroiqprgwdad.com
 dmddfkml.com
 dmiredindeed.com
@@ -178997,6 +179015,7 @@ dumplingclubhousecompliments.com
 dunderaffiliates.com
 duringherenurew.com
 duzvl.com
+dvognnrqkwe.com
 dvpgnauujoypjk.com
 dwetwdstom1020.com
 dxlmwkwqxgxx.com
@@ -179562,9 +179581,11 @@ gpfvumsxtbf.com
 gpgdoqikaf.com
 gptabefhmfqegt.com
 gqwblrijc.com
+gqwwhuxvu.com
 gracefullouisatemperature.com
 grantedpigsunborn.com
 grapseex.com
+grargoorseey.com
 grasshusk.com
 grateful-desk.com
 graveuniversalapologies.com
@@ -179690,6 +179711,7 @@ hiletterismypers.com
 hiltonbett.com
 himekingrow.com
 himunpractical.com
+himypdjkkuk.com
 hinaprecentals.com
 hinkhimunpractical.com
 hintonjour.com
@@ -179774,6 +179796,7 @@ hungryrise.com
 hunter-hub.com
 hunterlead.com
 hurdlesomehowpause.com
+hurozqlhio.com
 hurriedlyslumremiss.com
 huuegmbecqchvi.com
 hwopygmlc.com
@@ -179795,6 +179818,7 @@ ibutheptesitrew.com
 icatethebenefits.com
 icaueywha.com
 icelessbogles.com
+icesgoldtit.com
 icetechus.com
 ickygrade.com
 icyporno.com
@@ -179960,6 +179984,7 @@ jhkfd.com
 jidmebotyigqc.com
 jigsawthirsty.com
 jitanvlw.com
+jiulxixtrsakix.com
 jjkqvyxhpsx.com
 jklpy.com
 cdn.jkpes.com
@@ -179985,6 +180010,7 @@ jqpksqhjjymy.com
 jqueryoi.com
 jrpkizae.com
 jrsofgnroysvp.com
+jrtmokeamma.com
 js2json.com
 js7k.com
 jsadapi.com
@@ -180010,6 +180036,7 @@ jydiceeoj.com
 jyjkiltuwbn.com
 jywpajiisk.com
 jzimvzenprjoh.com
+jzymidanl.com
 k68tkg.com
 k8zy.com
 kadecpiia.com
@@ -180274,6 +180301,7 @@ lyuuogrjdvulg.com
 lyweqcjtty.com
 m-rtb.com
 ma3ion.com
+maaoutqewt.com
 machineryvegetable.com
 madnesscoupon.com
 madratesforall.com
@@ -180519,6 +180547,7 @@ narenrosrow.com
 narkalignevil.com
 nasosettoourm.com
 nasssmedia.com
+natatorsunkets.com
 nativeadmatch.com
 natsdk.com
 naugaugair.com
@@ -180566,6 +180595,7 @@ newrtbside.com
 news-pafusa.com
 newsaboutsugar.com
 newsletterinspectallpurpose.com
+newsletterwoot.com
 bidder.newspassid.com
 newsunads.com
 newtabextension.com
@@ -180720,6 +180750,7 @@ okueroskynt.com
 okvgcpsvr.com
 olopruy.com
 olsefstqdpyvnq.com
+olxokhjfaakx.com
 omazeiros.com
 omegatrak.com
 omgranbulltor.com
@@ -180879,6 +180910,7 @@ patsypropose.com
 pattedearnestly.com
 paudestaul.com
 pauewr4cw2xs5q.com
+pauxihypoxia.com
 pawheatyous.com
 pawjfavraag.com
 pawsjest.com
@@ -180901,6 +180933,7 @@ pdvsgnrsfcejrov.com
 pdvujswprsne.com
 peacebanana.com
 peasbishopgive.com
+peerlessqueensuccessfully.com
 peethach.com
 peiauruwboenq.com
 pekeshackle.com
@@ -180937,6 +180970,7 @@ pheniter.com
 phenotypebest.com
 phgop1.com
 phgotof2.com
+philosophyforgerydense.com
 phjteuhnuytwqe.com
 phoawhoax.com
 phoneboothsabledomesticated.com
@@ -181026,6 +181060,7 @@ potentiallypantsreseptivereseptive.com
 potslascivious.com
 potwm.com
 pouchyboots.com
+poundquandaryabsently.com
 poweradblocker.com
 powerfulcreaturechristian.com
 powerlessgreeted.com
@@ -181042,6 +181077,7 @@ predominanttamper.com
 pregmatookles.com
 premiumaffi.com
 premonitioninventdisagree.com
+preservationwristwilling.com
 presidedisregard.com
 presscllad.com
 pressyour.com
@@ -181239,6 +181275,7 @@ rapidfoxengine.com
 rapolok.com
 rashbarnabas.com
 rashseedlingexpenditure.com
+rastleemesa.com
 rasubtys.com
 ratebilaterdea.com
 ratitesbogging.com
@@ -181289,6 +181326,7 @@ refnippod.com
 refuserates.com
 refutationtiptoe.com
 regionalavouchcreeping.com
+reinpreposition.com
 rejve.com
 releasedfinish.com
 relievedgeoff.com
@@ -181354,6 +181392,7 @@ rimierbeebees.com
 rimkfpxbnpxi.com
 ringdisgustpostman.com
 riotousgrit.com
+rirki.com
 record.rizk.com
 rjprpydgnco.com
 rjw4obbw.com
@@ -181441,6 +181480,7 @@ sagcoreedge.com
 saggrowledetc.com
 sailcovertend.com
 saillevity.com
+salgvxxbuwhxbd.com
 sandydestructioncoax.com
 sandyrecordingmeet.com
 sanerespect.com
@@ -181590,6 +181630,7 @@ slietap.com
 slightcareconditions.com
 slinkhub.com
 slippery-computer.com
+smabuqzo.com
 smartasset.com
 smartcpatrack.com
 smeartoassessment.com
@@ -181636,6 +181677,7 @@ sophomorelink.com
 sorryfearknockout.com
 sorucall.com
 sousefulhead.com
+southefface.com
 souvlatraffic.com
 sovietransom.com
 sowrevisionwrecking.com
@@ -181709,6 +181751,7 @@ stoorgel.com
 stoorgouzoy.com
 stopadblocker.com
 get.stoplocker.com
+stoplouse.com
 stormysecond.com
 storyrelatively.com
 stovearmpitagreeable.com
@@ -181821,6 +181864,7 @@ technicalityindependencesting.com
 technicalitymartial.com
 technoshadows.com
 techreviewtech.com
+teddygroups.com
 teeechpv.com
 teentitsass.com
 teggcraws.com
@@ -181834,6 +181878,7 @@ tensiletaraph.com
 terciogouge.com
 terra8nb.com
 terribledeliberate.com
+tersoaltaupt.com
 tetyerecently.com
 tewartkiths.com
 texsk.com
@@ -181965,6 +182010,7 @@ traffprogo20.com
 trafogon.com
 trafsupr.com
 traglencium.com
+transactionproducer.com
 transcriptswarm.com
 transferzenad.com
 transformignorant.com
@@ -182032,6 +182078,8 @@ turncdn.com
 turndynamicforbes.com
 turnstileunavailablesite.com
 twcxhhfkug.com
+twentydowrylocate.com
+twerpgarred.com
 twerpuveitic.com
 twinrdengine.com
 twinrdsrv.com
@@ -182084,6 +182132,7 @@ ukedrevenue.com
 ukiouifmtbiubms.com
 uknlemmsnn.com
 ukuleqasforsale.com
+ulcqtgjvrowbmo.com
 ulesxbo.com
 ulpanimarcos.com
 ultrapartners.com
@@ -182096,6 +182145,7 @@ umltrjix.com
 umqpmdbfjqsubsg.com
 unaces.com
 unactkiosk.com
+unashamedinsoluble.com
 unasonoric.com
 uncommon-rope.com
 undercoverchildbirthflimsy.com
@@ -182162,6 +182212,7 @@ uzrdpttsnnx.com
 vabustoami.com
 vacantazon.com
 vacruwsug.com
+vahpkfgdlobhd.com
 vainfulkmole.com
 valuablenumber.com
 valvyre.com
@@ -182242,6 +182293,7 @@ visfirst.com
 visiblejoseph.com
 vitawelleo.com
 vkdnsptpquc.com
+vkumeiuxils.com
 vkygofioighl.com
 vlitag.com
 vlry5l4j5gbn.com
@@ -182269,8 +182321,10 @@ vulkan-bt.com
 vulnerablepeevestendon.com
 vutkaqlakbp.com
 vv8h9vyjgnst.com
+vwiyieagwgebdoj.com
 vxhcngzsiv.com
 w454n74qw.com
+wadecarbohydrate.com
 waehupuet.com
 waescyne.com
 waeshana.com
@@ -182290,6 +182344,7 @@ watchadzfree.com
 watchcpm.com
 wavedprincipal.com
 waymarkgentiin.com
+wazfsviocavtls.com
 wbamedia.com
 wboux.com
 wbtspctqx.com
@@ -182382,6 +182437,7 @@ woodymotherhood.com
 woogoust.com
 wopsedoaltuwn.com
 wordpersonify.com
+wordsphonyblacken.com
 woriusly.com
 worldfreshblog.com
 worldlyscene.com
@@ -182421,14 +182477,17 @@ xarvilo.com
 xawlop.com
 xawwelwbdfusfx.com
 xbidflare.com
+xbvkhrfmpxk.com
 xcgbnawkksl.com
 xcgjguutlgknrqw.com
 xcipwuoft.com
 xcowuheclvwryh.com
 xddcxfghqc.com
 xdiwbc.com
+xdylxpenf.com
 xefqptxw.com
 xgdmnccswao.com
+xgfhvfvdwg.com
 xghasufeb.com
 xgjpgirysb.com
 rtb-3.xgroovy.com
@@ -182522,6 +182581,7 @@ yllaris.com
 ymitfcatczssb.com
 ymwrqlmgecy.com
 ymxnhnrbw.com
+ynipuxptcx.com
 ynlipxua.com
 yonazurilla.com
 yonbearticor.com
@@ -182584,6 +182644,7 @@ zetaframes.com
 zgemeuqdqeujc.com
 zi8ivy4b0c7l.com
 zikpwr.com
+zilliondisfigureboldly.com
 zivtux.com
 zjdac.com
 zkcvb.com
@@ -182655,6 +182716,7 @@ antisagrucks.cyou
 apanagefirry.cyou
 applcuts.cyou
 arachisbytalk.cyou
+argutekhalkhakerseys.cyou
 argyriatergite.cyou
 argyricmosaics.cyou
 aridianhiatus.cyou
@@ -182957,6 +183019,7 @@ jeuflyleaf.cyou
 jibbonsdelete.cyou
 jimjumssicle.cyou
 jimpreissue.cyou
+jinjapromiss.cyou
 jinjililotah.cyou
 jittervouli.cyou
 jntdelly.cyou
@@ -183022,6 +183085,7 @@ lottiesipers.cyou
 louchemungrel.cyou
 loueyenage.cyou
 lucidaesignman.cyou
+lucilefloria.cyou
 machogoantenor.cyou
 maistryprairie.cyou
 makalepioletsshave.cyou
@@ -183238,6 +183302,7 @@ tattiedretched.cyou
 tautogsatafter.cyou
 taximenforwelk.cyou
 temprowboat.cyou
+tenorscarauna.cyou
 tercetsperused.cyou
 terpbusti.cyou
 thenageselfs.cyou
@@ -183586,6 +183651,7 @@ ascendteased.help
 aspalaxyerking.help
 atebatogless.help
 ateeterfouled.help
+aumakuaboof.help
 auristquipu.help
 averiadoura.help
 avouerosiest.help
@@ -183630,6 +183696,7 @@ boomkinloyal.help
 borddiosma.help
 bossboymormyr.help
 bossedmarlier.help
+botchedhashiya.help
 botelsnodding.help
 bouncyhansels.help
 bourrancobcab.help
@@ -184096,6 +184163,7 @@ trampslias.help
 trinkumjuneau.help
 trudgessmook.help
 trumpsupport.help
+tuingascree.help
 tuneupslbs.help
 twibilcainite.help
 uhsfoists.help
@@ -184119,6 +184187,7 @@ varunawagged.help
 ververboding.help
 vespidbornean.help
 viaticatulsi.help
+viesfalter.help
 vivariarageous.help
 waifedchkalik.help
 waiterrehoe.help
@@ -186412,6 +186481,7 @@ stulophovedsy.net
 stultesougloup.net
 stvbiopr.net
 subsouftax.net
+sudsacoulo.net
 sudukrirga.net
 sumpooloor.net
 superfolder.net
@@ -186816,6 +186886,7 @@ abotlkoqcasvc.online
 acvxskfeohrzi.online
 aczrxebflhpkx.online
 adangle.online
+adbepapjkfafd.online
 adsmarch.online
 adxtag.online
 aelvjocjowtgi.online
@@ -187091,6 +187162,7 @@ fskdejrlfefpn.online
 fskyfdhejmvov.online
 fsvgheuiakdrf.online
 ftwawfsjadhjm.online
+ftwftsvmssggs.online
 fuigimvxzegjh.online
 fumczyxbebovu.online
 fvainjetmzyqi.online
@@ -187210,6 +187282,7 @@ ifcartbwtzzwb.online
 ifiosnsxqmlnt.online
 igdianwrweqsz.online
 ihxqbcjyqnsny.online
+ihyhhbkxlmxgs.online
 iiasjrqypbbob.online
 iiccjfaymuhhd.online
 iiccqahglmayi.online
@@ -187240,6 +187313,7 @@ iwnmzkpzalkbo.online
 iwpzelmgabuij.online
 iwudaolmmaejh.online
 ixixjdvxvcvpr.online
+ixubgeuvxzgle.online
 iybasewlsdppj.online
 iyctzmxbgrsmj.online
 izekxwljsjboe.online
@@ -187314,6 +187388,7 @@ kfesymenamzyz.online
 kfspytxxuttmm.online
 kh-bkcvqxc.online
 khfnijzujyxrj.online
+khrikgvrohlqo.online
 kilwtrmhclsfs.online
 kiqdktywyiapy.online
 kkarjbugckcln.online
@@ -187358,6 +187433,7 @@ leevgyrscisge.online
 lepqwoifytqvr.online
 lfcaozareitig.online
 lfwbvrlzqwevp.online
+lgahmmjhrmpvv.online
 lgzraiodlejhy.online
 lgzwzyhkejtld.online
 lhcjpdeivssen.online
@@ -187412,6 +187488,7 @@ mjekpownyklmv.online
 mjlmollknjmhm.online
 mkanxhbbxfhgd.online
 mkexdzpuiswaq.online
+mkheimtslhtge.online
 mkjtenworoief.online
 mlgwhmepawefr.online
 mlojywdigmqfn.online
@@ -187444,6 +187521,7 @@ myhhidtzcxcxx.online
 mykmxomtrycuz.online
 mylnvywrikxpt.online
 mzgpxlngycipq.online
+mzoryqtsbvfgu.online
 mzownzmmlccqy.online
 nakipxiynjuzm.online
 nbhrgtcwodxgp.online
@@ -187499,6 +187577,7 @@ oghsbdelcftbx.online
 ogqmnxvsimiol.online
 ogtcggtsbulfs.online
 ohejbszpvhswi.online
+ohghhuqkxzsnu.online
 ojrkqzpuntzxg.online
 ojvpumediuoxs.online
 ojzixvohthddo.online
@@ -187691,6 +187770,7 @@ rtmvxpsxocoeq.online
 rtydwrmbrqfje.online
 rupysytufhhzm.online
 rurfpiuzazwzz.online
+ruwcnaoiqkznm.online
 rvupwwwdnyzce.online
 rwbkrnihzrbrb.online
 rwdpuayykfftn.online
@@ -187751,6 +187831,7 @@ tilapfnnjimqb.online
 titghrhwirlpo.online
 tiubvrcdzqhdj.online
 tkamrzuamfues.online
+tkklnvsmgomrh.online
 tkzdkabuzcuvb.online
 tlppbtcenjfwy.online
 tnanqkvvrqond.online
@@ -187846,6 +187927,7 @@ vwgnmcwmbolok.online
 vxcauxyaabqub.online
 vxrpfyuafznyc.online
 vxyxdlepxxdsd.online
+vxzmrvmaugiuf.online
 vyphpdjadbwlx.online
 vytkxcvmdzgbj.online
 vzetbwswvdcsw.online
@@ -187904,9 +187986,11 @@ xnlokghdybvho.online
 xnqmulxivdgaa.online
 xnwkuvxleogyn.online
 xomipvdmpzbik.online
+xplgbsgfkwkhq.online
 xsedsmmfzdgeg.online
 xszndltngpnuz.online
 xvtnaperelcrp.online
+xwgdcamizuhhp.online
 xyhlbbpqgtsty.online
 xzdagpywxkozq.online
 yboczurjhdyry.online
@@ -188007,6 +188091,7 @@ ecipientconc.org
 eckonturricalsbu.org
 edconsideundence.org
 elasticalsdebatic.org
+erseducationin.org
 ertainoutweile.org
 esmystemgthro.org
 foflib.org
@@ -188193,6 +188278,7 @@ glisteninginstruction.pro
 glorious-dependent.pro
 glossyplan.pro
 golden-sensitive.pro
+goldencompany.pro
 gomain2.pro
 good-risk.pro
 grandiose-glove.pro
@@ -188228,6 +188314,7 @@ idle-birth.pro
 ignorantdamage.pro
 illustriousreserve.pro
 impartial-steal.pro
+imperfecthouse.pro
 impractical-market.pro
 impracticalproperty.pro
 improbablerespect.pro
@@ -188243,6 +188330,7 @@ jhu8u9.pro
 joyous-self.pro
 juicymotor.pro
 just-news.pro
+juvenile-display.pro
 keen-hotel.pro
 knobby-weight.pro
 knowingcancel.pro
@@ -188295,6 +188383,7 @@ open-try.pro
 optimistic-grade.pro
 orderlyraw.pro
 ourbrave.pro
+outlandish-feature.pro
 outrageous-connection.pro
 partial-pair.pro
 pastel-hire.pro
@@ -188677,6 +188766,7 @@ gravhuppah.qpon
 growssatisfy.qpon
 guffinswinked.qpon
 gulleypupunha.qpon
+gurlfolsom.qpon
 gusspickax.qpon
 hagrodesulphas.qpon
 haguewavelet.qpon
@@ -188723,6 +188813,7 @@ jibbpremie.qpon
 johnianthoman.qpon
 jurallylepta.qpon
 kallimaalibamu.qpon
+kaolinskainsi.qpon
 karaiterakers.qpon
 keppedguarico.qpon
 kieltonna.qpon
@@ -188937,6 +189028,7 @@ sheughsfameuse.qpon
 shierhotbed.qpon
 shimmeyslocker.qpon
 shodereaumur.qpon
+showdcleck.qpon
 shtetelaloysia.qpon
 shuhaliheshvan.qpon
 siafukiln.qpon
@@ -189074,6 +189166,7 @@ ygerneablauts.qpon
 3tmwf3qjfm4gkvqho8.rest
 3wuy8xqr68gm3jc218r.rest
 3z5zo3vyekmwjo7ii4.rest
+4bgivmvl2yen614i658.rest
 4jivtr6knbu67hx.rest
 4kkwocu6p2c9v9ycztwr46yoly2n5z.rest
 4q488w55k41bl2.rest
@@ -189109,6 +189202,7 @@ ygerneablauts.qpon
 8xv8zhuup23fvu6r.rest
 8zggvq4m8gtrqyb9.rest
 8zxr3v962wjmf9wr53gf9.rest
+94n56ch3uh9gc7cnjr.rest
 9ky9wfu8tqe68tqpy.rest
 9opimjq4zci41pf.rest
 9tlgu2mgv8g2v3lp9.rest
@@ -189118,6 +189212,7 @@ acinarblimps.rest
 aegerjapygid.rest
 agarosecoxed.rest
 agereleap.rest
+agismspizz.rest
 agnosysketch.rest
 agoraeseewee.rest
 agraffebout.rest
@@ -189224,6 +189319,7 @@ fopileus.rest
 fr8umk51igjwbr57lzpnth318ygv.rest
 furrowywarning.rest
 g8k1ueykx6cnm8yqm6.rest
+gardenyyukata.rest
 ge5l1c128nipy8rteiorc7qlhnt6e3o.rest
 gibbalslucerne.rest
 gigabitmaceman.rest
@@ -189275,6 +189371,7 @@ io569cbzupr4913rixmkumwjc.rest
 ipseandfrond.rest
 iuwoujrmghmzbr.rest
 ivn15qrillubyo.rest
+ix6qkoo5b85wepbijqb67u.rest
 j6ibkoc9l9ff68pqm2t2lfr1659.rest
 j7r5b3ktboiliqh.rest
 jahvehbitnet.rest
@@ -189309,6 +189406,7 @@ l37jv5vj91fcrnxf.rest
 lc4z2l2fnepuqqnn.rest
 learierview.rest
 lefselmanor.rest
+lepromawenchow.rest
 lidoleaks.rest
 liftgrooms.rest
 lkun4czlzz6fe99vrwt.rest
@@ -189339,6 +189437,7 @@ muringoppida.rest
 muscattepanec.rest
 myl1l6jjxqe3ol7.rest
 n1v7tiwe54qjbkkfvfihm87.rest
+n46c1fezhbxepz9xn4.rest
 ne53wjrzqy5n1v9nqgh.rest
 newtfucoid.rest
 nf46jy6hc7x5q5k92.rest
@@ -189755,6 +189854,7 @@ musivedeepish.shop
 nagaikanamma.shop
 nammapreveto.shop
 napierpes.shop
+nauseanilghai.shop
 nematicanears.shop
 neonateunwaned.shop
 nepoteincited.shop
@@ -189811,6 +189911,7 @@ sniperiffian.shop
 snowiethaught.shop
 soareddeeping.shop
 soldierhooch.shop
+sourcedolls.shop
 spackgeranic.shop
 spieledcalking.shop
 spinkpooder.shop
@@ -189868,6 +189969,7 @@ aalhjtdrhzqgu.site
 ablat.site
 abzvzlfuqxzua.site
 adivuernkcvkp.site
+adzcivwjgktmz.site
 aecxguxsazcab.site
 aefplnimtjkdq.site
 aexnljipwpbbi.site
@@ -190087,6 +190189,7 @@ efykoaeajpzvy.site
 egrldstkdlmme.site
 egvlsbzuolczs.site
 ehnjbbuehmbqu.site
+eiiknsfpyarmi.site
 ejvopiwqynfcp.site
 ejynaavrensvc.site
 ekont.site
@@ -190115,6 +190218,7 @@ escwxirouxscm.site
 esuqlkmgwkpnk.site
 ethon.site
 etrem.site
+etwmijxejhqrr.site
 eubzycjyfrvnr.site
 exdnoseykzteg.site
 eyboxwdppkdkx.site
@@ -190146,6 +190250,7 @@ fnwhcgtuvfusn.site
 focmapdykirqw.site
 fomnmyxocwleg.site
 fpkbrrvkpfggn.site
+fpvqazktkywjf.site
 framb.site
 frap.site
 freefrog.site
@@ -190395,6 +190500,7 @@ kqdmpnqlefncp.site
 kqybzmgmfixof.site
 kspjjraqnfyqq.site
 kuateffssmfhx.site
+kucelglfptill.site
 kvcytjbllaeao.site
 kvfiutytcelqx.site
 kwgirhueuhcua.site
@@ -190428,6 +190534,7 @@ lqotlgjojxelr.site
 lrhyuixtcgnpn.site
 lsbzzkonxksrw.site
 lsdkprkiwnnzy.site
+lsdvpuxuibeih.site
 lthgyzbwpibcp.site
 ltqfvqkazxmub.site
 lttesmwedukrj.site
@@ -190595,6 +190702,7 @@ pxyggrntfvmqh.site
 pymlohbtnvigv.site
 pzevcsnxpnvwb.site
 pzmwfmovjmqib.site
+pztjqvvagwhlj.site
 pzvai.site
 qainfcnvfensl.site
 qanuwwcgtidqt.site
@@ -190793,6 +190901,7 @@ vjcyuwanbdnpu.site
 vkebnbiwkndbp.site
 vmktjnikltwjm.site
 vpnonly.site
+vrcvbtdmxhcgb.site
 vrnfgjkurfxcl.site
 vtuowmzjyyavc.site
 vtuqviwcbeuhr.site
@@ -191161,6 +191270,7 @@ eznifqmqbevzo.space
 fafdnhthodzfc.space
 faoll.space
 fclynmebozkyh.space
+fdpmvwlxjszfv.space
 fflemfnsehvfj.space
 fgcurevocpkmh.space
 fgnvnqsoqehlp.space
@@ -191282,6 +191392,7 @@ huhkkvgbruylq.space
 hussklycigswm.space
 hvofgazzorthf.space
 hvpgebskfwvux.space
+hwtzmbrsazskv.space
 hxlcunmryxpzq.space
 hxtbpzkeroxrv.space
 hykntjogtejpt.space
@@ -191318,6 +191429,7 @@ irlmioalvqymu.space
 isfqpyzvlmzik.space
 isiyrnziicvme.space
 isnzzgiqdztbd.space
+itbipaxlaytax.space
 itzuozgvtsglt.space
 iubxgprgzqzfv.space
 iukkxczhqekat.space
@@ -191333,6 +191445,7 @@ jcefzyezfomjd.space
 jdghsqvxmcrzi.space
 jdiwtetxazxkd.space
 jdohegxjytnit.space
+jffdicjopshin.space
 jfmktbfdclecz.space
 jgvynalsokllu.space
 jhbncnmpwfpgf.space
@@ -191400,6 +191513,7 @@ ldixpemjusied.space
 ldlnkdqhpwmsq.space
 ledrpbwkusvzt.space
 lfapxjnjapalg.space
+lfgknhbirotrt.space
 lfmkreaekafry.space
 lfugkipmkgmvd.space
 lfumffnjexbrx.space
@@ -191503,6 +191617,7 @@ nmnuaancrwvps.space
 nmpsxkgzoebbs.space
 nnknzxxqlzmxf.space
 nnwsnkytkcojm.space
+npbbhjcephgrx.space
 npdlubqluhonw.space
 npkeebrxpvekb.space
 npotczqwftxnx.space
@@ -191689,6 +191804,7 @@ rpjvqmqutauby.space
 rpkqrutejizju.space
 rpngxtfsjluiq.space
 rpxthifhxwznd.space
+rrpcjhtacwgki.space
 rsyekdrbcexjm.space
 rtdgdfdfehzrv.space
 rttufjwvkaphz.space
@@ -191890,6 +192006,7 @@ yctoqjnhqoyzw.space
 ydzivzuvmuwmy.space
 yeecxbcbhveex.space
 yemmethgqyufg.space
+yfelanqkliuph.space
 yfuciawgeyptp.space
 yhsegbkmhvrgx.space
 yibapaqndalsv.space
@@ -192119,6 +192236,7 @@ awkbkkqkqmmva.top
 awkbkkqkqmvyv.top
 ayarkkbmakkja.top
 ayarkkbmakzew.top
+ayarkkbmakzwa.top
 ayjvwlrbjamyv.top
 ayjvwlrbjaybm.top
 aykqyjzbkkkra.top
@@ -192395,6 +192513,7 @@ reymvmqqyawlj.top
 rezrboarmmbmk.top
 rezrboarmmqmv.top
 rizzomdaledh.top
+rjokawzwvavma.top
 rjokawzwvrzaw.top
 rjqzljvlbaqzj.top
 rjwwqkrmymmek.top
@@ -192508,6 +192627,7 @@ wwvqboerllbez.top
 wwvqboerllbzr.top
 wwwwzerbmowak.top
 wyaoormajvmej.top
+wyaoormajvmzm.top
 wylmzwklklqrr.top
 wylmzwkywlwyj.top
 wyvlllooaljlv.top
@@ -192805,6 +192925,7 @@ eljfsfvegudgz.website
 elwroycegbpei.website
 emrockckkqyyk.website
 emucrdpzawixc.website
+emxipsmjhingj.website
 eoflgybccinwq.website
 epgadhsvdasyg.website
 epjgtvmmfnqiq.website
@@ -193120,6 +193241,7 @@ lnrmudgvlszyo.website
 lolwxbnjyxidv.website
 lourdoueisienne.website
 lpazvocghyepn.website
+lpnotaeyoemsl.website
 lpwxtzhqeodnb.website
 lqgpwtjpccqbd.website
 lrduojlvyzzta.website
@@ -193332,6 +193454,7 @@ qetdpbkeadmvv.website
 qexcxmldbplyl.website
 qfeazbcjxoaxz.website
 qgbdpqpkowqik.website
+qgyotwiyrywev.website
 qhffqlklvclza.website
 qjrvummavqjtr.website
 qjuxbatoptcwi.website
@@ -193376,6 +193499,7 @@ refzmztesliql.website
 reratgzvukwje.website
 reusrtmgoxllr.website
 rgtteakmumqha.website
+rgvptabzpwsou.website
 rhrxadyexaklu.website
 rihbouxzdfvvu.website
 rjmyezxkxapco.website
@@ -193614,6 +193738,7 @@ xltdqkwaamxgg.website
 xlxijvswtoktb.website
 xlxnfasqdavfs.website
 xmeqgbkrmnruv.website
+xmhrjllcnynfs.website
 xnperqlgiwvpp.website
 xoanitznjnxqa.website
 xotsxpboxljzv.website
@@ -193652,8 +193777,10 @@ yhfifwlhwfgdv.website
 yhvochffddtun.website
 yhyqyveprasyv.website
 yiskxtjozbiov.website
+ylhwjxnnxbkgz.website
 ylkdnoibgafda.website
 ymktdiewkuqfz.website
+ynykrhlltoytp.website
 yorzhyzthdwgt.website
 yqtabvyhvroxj.website
 yrxyosdoumnfh.website
@@ -193944,6 +194071,7 @@ axxynteocvosxyv.xyz
 a.aylix.xyz
 ayokosyyagpf.xyz
 ayoovmhwq.xyz
+b1xuekes.xyz
 bamtinseefta.xyz
 barlo.xyz
 bawixi.xyz
@@ -580639,7 +580767,7 @@ ghochv3eng.trafficmanager.net
 
 ########## Blocklist from https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt ##########
 
-# Ignored duplicates: 77433
+# Ignored duplicates: 77571
 # Ignored due to overlapping local patterns: 816
 # Ignored entries due to the allowlist: 81
 
@@ -580845,6 +580973,7 @@ vaytienonline.app
 vaytotnhat.app
 chuyentienquocte1313.vercel.app
 chuyentienquoctenhanh.vercel.app
+fluffy-analytics.vercel.app
 giaodichquoctes.vercel.app
 nhantienquoctev3.vercel.app
 peach-analytics.vercel.app
@@ -586344,6 +586473,7 @@ zhongwangmy.cn
 zigq.cn
 zjen.cn
 zujz.cn
+zvou.cn
 zwvq.cn
 zxiws.cn
 og.zyzjpx.cn
@@ -587040,6 +587170,7 @@ izhte.58foundations.com
 6b9a2dfd98.5a1c7720ea.com
 5azvpjx8xj.com
 5d7k30pv1u.com
+5dfiuae82.com
 5dycay3rr.com
 1fe6b5ca5a.5ea748c035.com
 lp.5era.com
@@ -587104,6 +587235,7 @@ a.6hd49jng.com
 6jei0t6xp.com
 6jyi7mzae.com
 6m8tk53pw.com
+6o719vq4x.com
 6p2g1kk03.com
 6pctuhriw.com
 6s0zo8jzbb.com
@@ -587492,6 +587624,7 @@ adef77.com
 ithmdy.adekuver.com
 odqhk.adelanteshoes.com
 mkt.aderant.com
+adfenix.com
 filter.adflores.com
 login.adflores.com
 rtb-uswest.adflores.com
@@ -589514,6 +589647,7 @@ buzzfry.com
 trending.buzzingfinds.com
 buzzoole.com
 bvietcombank.com
+bvraciedl.com
 vfzfkmeq.byaagaard.com
 cjiqz.byalona.com
 att.trk.bycocoon.com
@@ -593547,6 +593681,8 @@ utiq.gfk.com
 ggai12171cp.com
 ggai12180cp.com
 ggai12181cp.com
+ggai12190cp.com
+ggai12191cp.com
 ggo10090lq.com
 ggo10091lq.com
 ggo10100lq.com
@@ -595540,6 +595676,7 @@ app.jmusports.com
 serverjj.jnjfashion.com
 js.jnkstff.com
 ss.jo-cell.com
+jo9q3dhqf.com
 stape.joaobritofx.com
 api.joaocarlosguimaraes.com
 gtm-ss.jobfunders.com
@@ -595691,6 +595828,7 @@ click-eu.junexclkmid.com
 click-v4.junexclkmid.com
 and4.junglebeariwtc4.com
 click-v4.junimedclk.com
+junior48.com
 info.juniperwealthmanagement.com
 rmbehm.junjewelry.com
 login.junnifyteam.com
@@ -597324,6 +597462,7 @@ mdrihnok.com
 marketing.mdscem.com
 info.mdsol.com
 images.mdtpatient.com
+me4b65enw.com
 hmvqj.mealprepify.com
 stgm.measuremindsgroup.com
 fimil.meatnbone.com
@@ -598248,6 +598387,7 @@ n0usvkb1x.com
 static.n0v2cdn.com
 n26iiffw9.com
 n2d79v41a3.com
+n2ivsbik2.com
 n2xj2mxg3z.com
 n906n29tm.com
 naarnurm.com
@@ -604375,6 +604515,7 @@ uqmvld.toitsutest.com
 a8cv.cart3.toku-talk.com
 a8cv.tokyo-dive.com
 ourtown.toledoparent.com
+tolerancewarily.com
 tomatobarrel.com
 analytics.tomatomtl.com
 smetrics.tomecontroldesusalud.com
@@ -606827,6 +606968,7 @@ xmo0oixbx8.com
 ax4.xmoviesland.com
 a8.xn--38jf6c4pa86a1dv833cexrb.com
 a803.xn--38jf6c4pa86a1dv833cexrb.com
+xn--54q23ckxiyx0e.com
 xn--6kr65fctg2t4e.com
 a8cv.xn--eckl3qmbc6976d2udy3ah35b.com
 load.gtm.xn--eryamanekici-qdb.com
@@ -609240,6 +609382,7 @@ stats.trussed.dev
 adatrack.trytrack.dev
 analytics.viture.dev
 6kflczrtc901.app.wefar.dev
+web-vitals-script.leaderint.workers.dev
 removeads.workers.dev
 adunblock.static-cloudflare.workers.dev
 activated.digital
@@ -612378,6 +612521,7 @@ track.bitcasino.io
 a8cv.bizlink.io
 str.bnbmastery.io
 bnbmatrix.io
+boldmetrics.io
 stats.boringproxy.io
 load.gtm.brainmanager.io
 click-dsp.branchdsp.io
@@ -612546,6 +612690,7 @@ c.quackr.io
 load.sst.quantumupgrade.io
 metrics.rapidedge.io
 load.sgtm.rayneai.io
+stats.renet.io
 lofo3l15c674.platform.replai.io
 soahu1wnmt6l.www.replai.io
 stape.resenhabet.io
@@ -613665,6 +613810,7 @@ analytics.code.illusion.jp
 sbcigp.ilovewig.jp
 a8.imagi-nation.jp
 a8clk.inakakon.jp
+indiegogo.jp
 interactive-circle.jp
 sst.invast.jp
 adebis.invest-online.jp
@@ -619737,6 +619883,7 @@ gg.7976.top
 9l4i9edu.top
 9vviyje1s.top
 9z6p1shhsh.top
+aa3zx8wko.top
 academic96.top
 achievement44.top
 hruk.afguk.top
@@ -620121,6 +620268,7 @@ qucnwty.top
 qvcnmty.top
 qwcnmty.top
 qwilmiy.top
+qwsbegovo.top
 qywbslk.top
 r5twojylmzsym.top
 radishon33.top
@@ -621696,6 +621844,7 @@ epxlt.xyz
 eskux.xyz
 evnvaytien.xyz
 exovietnam.xyz
+eyiyoxz.xyz
 cdn.fedsy.xyz
 ffgarenavongquay.xyz
 pp.fitnesshubbd.xyz
@@ -621750,6 +621899,7 @@ stats.konfou.xyz
 koreanzad.xyz
 campaign-direct.kouketsuatsu-health.xyz
 server.ktbazarbd.xyz
+kvdxvqw.xyz
 lafacw.xyz
 languroa.xyz
 lazadaflashsale99.xyz
@@ -621795,6 +621945,7 @@ popvietnam.xyz
 qiu4592.xyz
 qkixeld.xyz
 capi.qqpulsa365capi.xyz
+qrzwjfq.xyz
 quick-date.xyz
 narwhal.quickbudget.xyz
 quziao.xyz
@@ -621878,6 +622029,7 @@ uhi02121uik.xyz
 uhi02130uik.xyz
 server.uniquebeautyshop.xyz
 unixpop.xyz
+unqvaof.xyz
 uuso05072qhs.xyz
 uuso05080qhs.xyz
 uuso05081qhs.xyz
@@ -621920,6 +622072,7 @@ vpydjogaytpg.xyz
 vtrrxqbi.xyz
 capi.watchphantom.xyz
 wefinexvietnam.xyz
+wftihvn.xyz
 redir.widebluetrue.xyz
 redir-v4.widebluetrue.xyz
 wjxc92bc.xyz
